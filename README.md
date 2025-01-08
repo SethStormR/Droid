@@ -1,7 +1,6 @@
 # Droid
 
-![Droid](https://github.com/user-attachments/assets/7d1ac7b1-5d87-4a07-9242-2759aa43cde9)
-
+![GnomeBanner](https://github.com/user-attachments/assets/16f16b5b-afad-43aa-9f69-af6e1be7948e)
 
 Screenshots
 --
